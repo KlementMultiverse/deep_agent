@@ -6,8 +6,8 @@ langchain
 langgraph
 
 # LLM providers
+langchain-openai
 google-generativeai
-# openai  # uncomment when you have API key
 
 # Utilities
 python-dotenv
