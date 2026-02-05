@@ -53,3 +53,4 @@ htmlcov/
 .deepagents/
 agent_files/
 agent_disk/
+disk_files/
